@@ -50,8 +50,8 @@ Starting from V2.0.0, you can use AI to search for cover art and LRC lyrics. It 
 
 
 <img width="1280" alt="1" src="https://github.com/user-attachments/assets/d97273a7-93fe-4964-8e7c-d167e84cbc8a" />
-<img width="480"  alt="2" src="https://github.com/user-attachments/assets/4d781655-0b57-4f09-b35d-727b2ae98ba6" />
-<img width="480"  alt="3" src="https://github.com/user-attachments/assets/68178813-7f11-46c4-87b5-1704a8ab0094" />
+<img width="640"  alt="2" src="https://github.com/user-attachments/assets/4d781655-0b57-4f09-b35d-727b2ae98ba6" />
+<img width="640"  alt="3" src="https://github.com/user-attachments/assets/68178813-7f11-46c4-87b5-1704a8ab0094" />
 
 
 
