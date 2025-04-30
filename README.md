@@ -4,6 +4,8 @@ Powerful compatibility：FLAC, WAV, M4A, MP3, DSD, DFF, DSF, OGG, AIFF, APE, ASF
 
 Music tag editor for everyone, wide range of music formats, supports parsing and editing tags such as covers, lyrics, labels, artists, albums, eras, genres, notes, etc. within music files.
 
+Starting from V2.0.0, you can use AI to search for cover art and LRC lyrics. It only takes 3 seconds to fill in complete music tags for your music.
+
 ## ⏬Download on App Store:
 [App Store：Music Tag Editor](https://apps.apple.com/app/id6738013677)
 
